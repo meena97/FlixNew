@@ -33,8 +33,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. Link to fandango or another movie ticket buying website.
+2. Allow the user to rate the movie, and then store in a database or possibly share with an existing database (such as RottenTomatoes)
 
 ## Video Walkthrough
 
@@ -47,6 +47,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- It took me a while to figure out how to display the "Networking Label Error" -> I had it on the Table View instead of over it
+- Converting from the table view to the collection view was challenging. Modifying the flow layout was also challenging.
+- The search bar was tricky at first. When I was in table view, I used "tableView.tableHeaderView", but when I changed to Collection View I couldn't use that method anymore.
+- Making the images fade in was also tricky. I had to watch a lot of youtube videos/tutorials :)
 
 ## Credits
 
