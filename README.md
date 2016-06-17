@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Project 2 - Flix
 
 Flix is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: **25** hours spent in total
 
 ## User Stories
 
@@ -16,17 +15,20 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-- [ ] User sees an error message when there's a networking error.
-- [ ] Movies are displayed using a CollectionView instead of a TableView.
+- [x] User sees an error message when there's a networking error.
+- [x] Movies are displayed using a CollectionView instead of a TableView.
 - [x] User can search for a movie.
 - [ ] All images fade in as they are loading.
-- [ ] Customize the UI.
+- [x] Customize the UI.
 
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
+- Added details page (Image, Title, Release Date)
 - Scrolling feature added to Details Page
 - Added Tab feature (Top-Rated, Now Playing, Upcoming)
+- Customized navigation bar
+- Customed selection cell
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -66,7 +68,3 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-=======
-# FlixNew
-Flix Application (new)
->>>>>>> 06b4c21d76b2c2d7f69d7679eb914444c10ca0eb
